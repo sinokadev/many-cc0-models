@@ -3,7 +3,6 @@
 
 # Blender 5.2.0 LTS
 # www.blender.org
-mtllib notbox.mtl
 o Cube
 v 0.780465 0.780465 -0.780465
 v 0.780465 -0.780465 -0.780465
